@@ -67,11 +67,11 @@ function Navbar() {
 								className="nav-links-mobile"
 								onClick={closeMobileMenu}
 							>
-								Sign up
+								Join the line
 							</Link>
 						</li>
 					</ul>
-					{button && <Button buttonStyle="btn--outline">Sign up</Button>}
+					{button && <Button buttonStyle="btn--outline">Join the line</Button>}
 				</div>
 			</nav>
 		</>
