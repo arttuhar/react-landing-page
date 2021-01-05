@@ -9,7 +9,7 @@
 .services,
 .products,
 .contact,
-.sign-up {
+.join-line {
 	display: flex;
 	height: 90vh;
 	align-items: center;
