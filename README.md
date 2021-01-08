@@ -4,6 +4,7 @@
 
 - [General info](#general-info)
 - [Technologies](#technologies)
+- [Project status](#project-status)
 - [Setup](#setup)
 
 ## General info
@@ -20,8 +21,29 @@ Images are downloaded from
 
 - Unsplash
 
+## Project status
+
+Project is currently in development. Next steps will be:
+
+- More content to pages
+- Fixes to styling and layout
+
 ## Setup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clone down this repository. You will need node and npm installed on your machine.
 
-### Available Scripts
+Installation:
+
+`npm install`
+
+Run test:
+
+`npm test`
+
+Start server:
+
+`npm start`
+
+Visit app:
+
+`localhost:3000`
